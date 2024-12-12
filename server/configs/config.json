@@ -1,0 +1,86 @@
+{
+    "teams": [
+        {
+            "id": "1",
+            "name": "BroadcastAudio MW Team",
+            "groups": {
+                "Broadcast": {
+                    "platforms": [
+                        {
+                            "name": "ccNC Platform",
+                            "reviewersRequired": 2,
+                            "repos": [
+                                {"project": "CCOS_PLATFORM", "repo": "ccos.app.manager.audiostreamingmanager", "branch": "@s6mobis"}
+                            ]
+                        },
+                        {
+                            "name": "Wide Gen5 Platform",
+                            "reviewersRequired": 2,
+                            "repos": [
+                                {"project": "CCOS_PLATFORM", "repo": "ccos.app.manager.audiostreamingmanager", "branch": "@s6mobis"}
+                            ]
+                        },
+                        {
+                            "name": "PBV Platform",
+                            "reviewersRequired": 2,
+                            "repos": [
+                                {"project": "CCOS_PLATFORM", "repo": "ccos.app.manager.audiostreamingmanager", "branch": "@s6mobis"}
+                            ]
+                        },
+                        {
+                            "name": "Connect Platform",
+                            "reviewersRequired": 2,
+                            "repos": [
+                                {"project": "CCOS_PLATFORM", "repo": "ccos.app.manager.audiostreamingmanager", "branch": "@s6mobis"}
+                            ]
+                        }
+                    ],
+                    "members": [
+                        {
+                            "name": "김영훈",
+                            "id": "1630688"
+                        }
+                    ]
+                },
+                "Audio": {
+                    "platforms": [
+                        {
+                            "name": "ccNC Platform",
+                            "reviewersRequired": 2,
+                            "repos": [
+                                {"project": "CCOS_PLATFORM", "repo": "ccos.app.manager.audiostreamingmanager", "branch": "@s6mobis"}
+                            ]
+                        },
+                        {
+                            "name": "Wide Gen5 Platform",
+                            "reviewersRequired": 2,
+                            "repos": [
+                                {"project": "CCOS_PLATFORM", "repo": "ccos.app.manager.audiostreamingmanager", "branch": "@s6mobis"}
+                            ]
+                        },
+                        {
+                            "name": "PBV Platform",
+                            "reviewersRequired": 2,
+                            "repos": [
+                                {"project": "CCOS_PLATFORM", "repo": "ccos.app.manager.audiostreamingmanager", "branch": "@s6mobis"}
+                            ]
+                        },
+                        {
+                            "name": "Connect Platform",
+                            "reviewersRequired": 2,
+                            "repos": [
+                                {"project": "CCOS_PLATFORM", "repo": "ccos.app.manager.audiostreamingmanager", "branch": "@s6mobis"}
+                            ]
+                        }
+                    ],
+                    "members": [
+                        {
+                            "name": "김영훈",
+                            "id": "1630688"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
